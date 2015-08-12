@@ -1,7 +1,7 @@
 # potw_7
 
 Your name is Flynn. You're a game developer at Nort Games, a company that specializes in virtual reality experiences.
-You're putting on the finishing touches to your company's latest, sure-to-be hit: World of <>. 
+You're putting on the finishing touches to your company's latest, sure-to-be hit: World of CraftCraft. 
 It's late at night and you're the only person in the office. You hit Build, don your VR helmet, and get ready to test it.
 Suddenly, the power goes off. It's pitch black; you can't see anything. 
 You go to remove your helmet and fumble for the light switch, but you can't seem to get the helmet off.
