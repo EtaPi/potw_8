@@ -10,15 +10,19 @@ You hear a distant voice: 'My name is Grue! If you want to escape this place, yo
 
 For this week's problem, the input text files store a 'map' of the maze, like this:
 
+```
 --Sx
 -xxF
 ----
+```
 
 S is your starting point. F is the exit. Dashes are 'open' spaces, while X's or x's are walls.
 Your program must read in the map, do work, and then output a list of moves to navigate to the exit.
 For example, for the above maze,  your program should output:
 
+```
 WWSSEEEN
+```
 
 corresponding to the cardinal directions (N = north, E = east, etc).
 
