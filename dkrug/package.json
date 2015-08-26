@@ -1,0 +1,15 @@
+{
+  "name": "mp8",
+  "version": "1.0.0",
+  "description": "mp8",
+  "main": "mp8.js",
+  "private": true,
+  "author": {
+    "name": "D/K",
+    "email": ""
+  },
+  "dependencies": {
+    "command-line-args": "^0.5.9",
+    "format": "^0.2.1"
+  }
+}
